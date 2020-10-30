@@ -16,18 +16,18 @@ Springer: https://www.springer.com/gp/livingreviews/latex-templates
 
 对应关系 (仅列出部分数据库/数据挖掘和安全领域的会议和期刊) ：
 
-|            |          |                              |
-| ---------- | -------- | ---------------------------- |
-| Conference | ACM      | SIGMOD/ SIGKDD/ SIGIR/ VLDB/ |
-|            | IEEE     | ICDE/ S&P                    |
-|            | USENIX   | USENIX Security              |
-|            | Elsevier | /                            |
-|            | Springer | CRYPTO/ ERUOCRYPT            |
-| Journal    | ACM      | TODS/ TOIS                   |
-|            | IEEE     | TKDE/ TDSC/ TIFS             |
-|            | USENIX   | /                            |
-|            | Elsevier | /                            |
-|            | Springer | VLDBJ/ JOC                   |
+| TYPE       | Publisher | NAME                         |
+| ---------- | --------- | ---------------------------- |
+| Conference | ACM       | SIGMOD/ SIGKDD/ SIGIR/ VLDB/ |
+|            | IEEE      | ICDE/ S&P                    |
+|            | USENIX    | USENIX Security              |
+|            | Elsevier  | /                            |
+|            | Springer  | CRYPTO/ ERUOCRYPT            |
+| Journal    | ACM       | TODS/ TOIS                   |
+|            | IEEE      | TKDE/ TDSC/ TIFS             |
+|            | USENIX    | /                            |
+|            | Elsevier  | /                            |
+|            | Springer  | VLDBJ/ JOC                   |
 
 
 
